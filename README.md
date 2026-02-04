@@ -41,4 +41,11 @@ Accessed the osTicket Support Center as an end user and submitted a new support 
 
 <img width="777" height="978" alt="image" src="https://github.com/user-attachments/assets/909f8a01-c893-4807-b5a9-773b3dec73d6" />
 
+<h2>🔐 Administrative Access Control: Agent Permissions</h2>
+
+Authenticated as an administrator, navigated to Agents → Access, and modified the selected agent’s permissions from view-only to full access. This ensures the agent can handle ticket creation, updates, assignment, and resolution without restrictions.
+
+<img width="988" height="747" alt="image" src="https://github.com/user-attachments/assets/3165c374-4981-4cf4-94ab-0a0577284692" />
+
+
 
