@@ -68,6 +68,10 @@ As agent Jane, received the transferred ticket and reviewed the ticket thread. R
 <img width="1005" height="1016" alt="image" src="https://github.com/user-attachments/assets/f23f24fe-53a4-4dd8-bb1b-93fd6c9dffa7" />
 <img width="995" height="1083" alt="image" src="https://github.com/user-attachments/assets/afa55c05-d2c2-4a5c-89c4-7b4f4c281580" />
 <img width="962" height="1025" alt="image" src="https://github.com/user-attachments/assets/016192b7-d59a-436a-a5bf-d5aef9b7f4c1" />
+<img width="1010" height="832" alt="image" src="https://github.com/user-attachments/assets/920814d1-f9e2-483f-bbe9-9f9aeb4e0191" />
+<img width="1005" height="1069" alt="image" src="https://github.com/user-attachments/assets/34106efa-8bce-49b5-9f87-d0bdbdda9833" />
+
+
 
 
 
