@@ -47,5 +47,12 @@ Authenticated as an administrator, navigated to Agents → Access, and modified 
 
 <img width="988" height="747" alt="image" src="https://github.com/user-attachments/assets/3165c374-4981-4cf4-94ab-0a0577284692" />
 
+<h2>📝 Agent Documentation: Internal Notes (Read-Only Role)</h2>
+
+As agent John, tested the internal note functionality with a “read-only” user account. Created a sample note to verify that permissions and audit tracking behave correctly within the ticketing system
+
+<img width="1302" height="1426" alt="image" src="https://github.com/user-attachments/assets/0fea9817-43a9-41dc-aa91-299c9c413e1a" />
+
+
 
 
